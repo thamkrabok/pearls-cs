@@ -1,0 +1,81 @@
+h1{
+  font-size: 30px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h2{
+  font-size: 28px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h3{
+  font-size: 26px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h4{
+  font-size: 24px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h5{
+  font-size: 22px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h6{
+  font-size: 20px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h7{
+  font-size: 18px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h8{
+  font-size: 16px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h9{
+  font-size: 14px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h10{
+  font-size: 12px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+h11{
+  font-size: 10px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: Roboto;
+}
+.bold{
+  font-weight: bold;
+}
+.Cf8941e{
+  color: #F8941E;
+}
+.C58595b{
+  color: #58595B;
+}
+.black{
+  color: black;
+}
+.white{
+  color: white;
+}

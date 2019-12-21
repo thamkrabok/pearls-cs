@@ -89,6 +89,7 @@
 </template>
 
 <script>
+import '@/css/font.css';
 export default {
   data () {
     return {
@@ -112,6 +113,7 @@ export default {
       rightDrawer: false,
       title: 'Vuetify.js'
     }
-  }
+  },
+  css: 'font'
 }
 </script>
