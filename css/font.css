@@ -64,11 +64,17 @@ h11{
   font-weight: lighter;
   font-family: Roboto;
 }
+.size-50{
+  font-size: 50px;
+}
 .bold{
   font-weight: bold;
 }
 .Cf8941e{
   color: #F8941E;
+}
+.background-f8941e {
+  background-color: #f8941e;
 }
 .C58595b{
   color: #58595B;
@@ -78,4 +84,11 @@ h11{
 }
 .white{
   color: white;
+}
+hr {
+  display: block;
+  margin-top: 3em;
+  /* margin-bottom: 5em; */
+  border-style: inset;
+  border-width: 1px;
 }

@@ -46,16 +46,15 @@
   </div>
 </template>
 
-<style>
+
+<style scoped>
 .v-application {
   background-image: url("~assets/login/login_background.png") !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat !important;
 }
-</style>
 
-<style scoped>
 .login-block {
   border-radius: 20px;
   position: relative;
