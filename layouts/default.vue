@@ -114,6 +114,5 @@ export default {
       title: 'Vuetify.js'
     }
   },
-  css: 'font'
 }
 </script>

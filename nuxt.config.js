@@ -37,8 +37,7 @@ export default {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [ '@/plugins/bootstrap-vue', ],
   /*
   ** Nuxt.js dev-modules
   */
@@ -48,8 +47,7 @@ export default {
   /*
   ** Nuxt.js modules
   */
-  modules: [
-  ],
+  modules: ['bootstrap-vue/nuxt'],
   /*
   ** vuetify module configuration
   ** https://github.com/nuxt-community/vuetify-module
