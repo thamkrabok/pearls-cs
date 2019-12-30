@@ -78,7 +78,7 @@
                                         <v-btn x-large
                                             color="#BAD26E"
                                             dark
-                                            @click="dialog = false"
+                                            @click="dialog = true"
                                             class="courseSubjectDialogBtnYes"
                                         >
                                             YES
